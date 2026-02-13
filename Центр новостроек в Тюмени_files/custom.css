@@ -1,0 +1,105 @@
+.navbar-brand .navbar__title {
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 16px;
+}
+a.nav-link.tell {
+  font-weight: 600;
+  color: #dc3f3f !important;
+  font-size: 16px;
+}
+
+img.cvart_img {
+  width: 100%;
+ /* height: 400px;*/
+}
+img.cvart_img {
+  max-width: 320px;
+  max-height: 400px;
+}
+.px2 {
+  min-height: 400px;
+}
+span.katsp {
+  display: block;
+}
+.katp {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.kvpreim {
+  min-height: 47px;
+}
+.mapkvart {
+  height: 400px;
+}
+.what__have>div {
+  font-size: 13px;
+}
+.gen_map{
+height: 500px;
+}
+.kvartit {
+  height: 53px;
+}
+.wpcf7 form.sent .wpcf7-response-output {
+  border-color: #46b450;
+  background: #fff;
+}
+.bkvnut {
+  max-width: 400px;
+  text-align: center;
+  margin: 20px;
+  min-height: 300px;
+}
+.fzvontitle {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.wpcf7 form .wpcf7-response-output {
+  margin-top: 0px;
+}
+.wpcf7 form.invalid .wpcf7-response-output{
+
+  display: none;
+}
+div#bkvnut_otz {
+  text-align: left;
+  max-width: 600px;
+  height: auto;
+  min-height: auto;
+}
+.gximg {
+  max-height: 400px;
+}
+
+@media (min-width: 1024px) and (max-width: 1399px){
+.media__openitem .kvartrow img {
+    max-width: 260px;
+    height: auto !important;
+}
+.kvartit {
+  height: auto;
+}
+}
+@media (min-width: 0) and (max-width: 767px){
+.media__openitem .kvartrow img {
+    max-width: 100%;
+    height: auto !important;
+}
+.kvartrow {
+  display: block !important;
+}
+.kvartrow .grid__swiper-media, .media__program {
+    width: auto;
+}
+.kvartrow .flex-shrink-0 {
+
+  max-width: 100%;
+}
+.px2 {
+  min-height: auto;
+}
+}
+
+
